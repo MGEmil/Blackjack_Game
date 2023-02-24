@@ -20,3 +20,5 @@ Following rules are implemented for different scenario of the game:
   - An outcome of blackjack vs. blackjack results in a tie.
   - The winner is declared after the dealer has finished taking cards from the deck and comparing the player's hand to the dealer's hand.
 
+# Sample output of program
+Sample output 1:
