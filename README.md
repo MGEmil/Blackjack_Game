@@ -11,3 +11,6 @@ This is a Text-based Blackjack game.The game is based on the description provide
 The game is implemented with standard 1 deck of cards.It has implementation of two standard options for player after receiving two initial cards: Hit and Stand.The rules for each implementation is described below:
   - Hit: Take another card from dealer.
   - Stand:Player takes no more cards and dealer draws the card.
+
+Following rules are implemented for the dealer in the game.
+  - Dealer hits until his cards total 17 or more points.
