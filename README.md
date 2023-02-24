@@ -12,5 +12,11 @@ The game is implemented with standard 1 deck of cards.It has implementation of t
   - Hit: Take another card from dealer.
   - Stand:Player takes no more cards and dealer draws the card.
 
-Following rules are implemented for the dealer in the game.
+Following rules are implemented for the dealer in the game:
   - Dealer hits until his cards total 17 or more points.
+ 
+Following rules are implemented for different scenario of the game:
+  - A blackjack beats any hand that is not a blackjack, even one with a value of 21.
+  - An outcome of blackjack vs. blackjack results in a tie.
+  - The winner is declared after the dealer has finished taking cards from the deck and comparing the player's hand to the dealer's hand.
+
