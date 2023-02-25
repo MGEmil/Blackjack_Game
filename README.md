@@ -9,8 +9,8 @@ This is a Text-based Blackjack game.The game is based on the description provide
   - Let the dealer draw additional cards until his or her hand exceeds 21.
 
 The game is implemented with standard 1 deck of cards.It has implementation of two standard options for player after receiving two initial cards: Hit and Stand.The rules for each implementation is described below:
-  - Hit: Take another card from dealer.
-  - Stand:Player takes no more cards and dealer draws the card.
+  - __Hit__: Take another card from dealer.
+  - __Stand__:Player takes no more cards and dealer draws the card.
 
 Following rules are implemented for the dealer in the game:
   - Dealer hits until his cards total 17 or more points.
@@ -22,3 +22,74 @@ Following rules are implemented for different scenario of the game:
 
 # Sample output of program
 Sample output 1:
+```
+How many games do you want to play? 1
+******************************
+Game 1 of 1
+******************************
+Your hand: 
+┌───────┐
+|10     |
+|       |
+|   ♠   |
+|       |
+|     10|
+└───────┘
+┌───────┐
+|9      |
+|       |
+|   ♥   |
+|       |
+|     9 |
+└───────┘
+
+Dealer's hand: 
+┌───────┐
+|   h   |
+|   i   |
+|   d   |
+|   d   |
+|   e   |
+|   n   |
+└───────┘
+┌───────┐
+|6      |
+|       |
+|   ♦   |
+|       |
+|     6 |
+└───────┘
+
+Please choose 'Hit' or 'Stand': s
+
+Dealer's hand: 
+┌───────┐
+|5      |
+|       |
+|   ♠   |
+|       |
+|     5 |
+└───────┘
+┌───────┐
+|6      |
+|       |
+|   ♦   |
+|       |
+|     6 |
+└───────┘
+┌───────┐
+|8      |
+|       |
+|   ♠   |
+|       |
+|     8 |
+└───────┘
+
+Final Results: 
+Your hand:  19
+Dealer's hand:  19
+Tie! 😑
+
+ Thanks for playing!
+
+```
