@@ -61,7 +61,7 @@ Dealer's hand:
 |     8 |
 └───────┘
 
-Please choose 'Hit' or 'Stand': h
+Please choose 'Hit' or 'Stand' (or h/s) : h
 
 Your hand: 
 ┌───────┐
@@ -86,7 +86,7 @@ Your hand:
 |     K |
 └───────┘
 
-Please choose 'Hit' or 'Stand': s
+Please choose 'Hit' or 'Stand' (or h/s) : s
 
 Dealer's hand: 
 ┌───────┐
@@ -159,7 +159,7 @@ Dealer's hand:
 |     8 |
 └───────┘
 
-Please choose 'Hit' or 'Stand': s
+Please choose 'Hit' or 'Stand' (or h/s) : s
 
 Dealer's hand: 
 ┌───────┐
@@ -232,7 +232,7 @@ Dealer's hand:
 |     2 |
 └───────┘
 
-Please choose 'Hit' or 'Stand': h
+Please choose 'Hit' or 'Stand' (or h/s) : h
 
 Your hand: 
 ┌───────┐
@@ -257,7 +257,7 @@ Your hand:
 |     7 |
 └───────┘
 
-Please choose 'Hit' or 'Stand': s
+Please choose 'Hit' or 'Stand' (or h/s) : s
 
 Dealer's hand: 
 ┌───────┐
@@ -331,7 +331,7 @@ Dealer's hand:
 |     6 |
 └───────┘
 
-Please choose 'Hit' or 'Stand': s
+Please choose 'Hit' or 'Stand' (or h/s) : s
 
 Dealer's hand: 
 ┌───────┐
